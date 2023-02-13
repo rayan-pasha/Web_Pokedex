@@ -1,0 +1,56 @@
+body {
+  background-image: url("dex.jpg") ;
+  background-repeat: no-repeat;
+  background-color: #cccccc;
+  background-size: cover;
+ }
+
+nav {
+  background-color:#333;
+  height:auto;
+  width:auto;
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+nav button,
+.home {
+  background: none;
+  text-decoration: none;
+  border:#232222;
+  color: white;
+  font-family: "Verdana", sans-serif;
+  font-size: 30px;
+  cursor: pointer;
+}
+
+.dex_img{
+
+  display: block;
+  margin-top: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+
+  color: black;
+  border: 40px solid #232222;
+  padding-left: 25%;
+  padding-right: 25%;
+}
+
+.dex_info{
+  text-align: center;
+  color: white;
+  font-size: 100px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.dex_info2{
+  text-align: center;
+  color: white;
+  font-size: 50px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
