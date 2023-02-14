@@ -1,53 +1,29 @@
-body {
-  font-family: Oswald, sans-serif;
-  background-color: #fff;
-}
 .headerimage {
   width: 100%;
-  height: 1%;
+  height: 100%;
 }
 body {
   font-family: Roboto, sans-serif;
 }
 .container {
   background-color: #f9f3f3;
-  min-height: calc(100vh - 50px);
   color: #fff;
 }
-.content-container {
-  margin-left: 50px;
-}
-.featured-content {
-  padding: 30px;
-}
-.featured-title {
-  width: 200px;
-}
-.featured-button {
-  background-color: #4dbf00;
-  color: #fff;
-  padding: 10px 20px;
-  border-radius: 10px;
-  border: none;
-  outline: 0;
-  font-weight: 700;
-}
+
 .movie-list-container {
-  padding: 0 20px;
+  width: 100%;
+  padding: 100px;
 }
-.movie-list-wrapper {
-  position: relative;
-  overflow: hidden;
-}
+
 .movie-list {
   display: flex;
-  align-items: center;
   height: 300px;
+  width: 100%;
   transform: translateX(0);
   transition: all 1s ease-in-out;
 }
 .movie-list-item {
-  margin-right: 100px;
+  margin: auto;
   position: relative;
 }
 .movie-list-item:hover .poke_pic {
@@ -91,11 +67,7 @@ body {
   opacity: 0;
   transition: 1s all ease-in-out;
 }
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
+
 body {
   height: 100vh;
   background-color: #2f2c2c;
