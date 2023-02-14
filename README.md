@@ -1,5 +1,3 @@
 # Pokédex Web Gallery Application 
-
-## Project Description 
-
-## Demo
+### Project Description 
+### Demo
