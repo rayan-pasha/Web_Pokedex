@@ -1,1 +1,5 @@
-# web_pokedex
+# Pokédex Web Gallery Application 
+
+## Project Description 
+
+## Demo
