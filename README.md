@@ -3,8 +3,9 @@
 ### Project Description 
 
 This project is a interactive web gallery based on the Pokémon franchise. 
-The site displays the first gen starter Pokémon's in a dynamic format.
-User can click view to see details of the Pokémon such as their name and type.
+The site displays the 1st generation starter Pokémon along with their evolutions.
+User can click on a pokemon view to see details of the Pokémon such as their name and type.
+This application was created using HTML, CSS, and JavaScript
 
 ### Demo
 
