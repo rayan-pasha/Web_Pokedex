@@ -7,8 +7,5 @@ The site displays the 1st generation starter Pokémon along with their evolution
 User can click on a pokemon view to see details of the Pokémon such as their name and type.
 This application was created using HTML, CSS, and JavaScript
 
-### Demo
-
-
-https://user-images.githubusercontent.com/94646417/218638188-36d7cd80-b522-4a06-bf8f-0dc05c247ed3.mp4
+![pokedex](https://github.com/user-attachments/assets/154db08b-6a0d-40ca-a993-afc1545c79dc)
 
