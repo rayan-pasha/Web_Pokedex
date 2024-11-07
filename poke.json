@@ -1,0 +1,56 @@
+[
+    {
+        "id": "001",
+        "name": "Bulbasaur",
+        "image": "poke_imgs/001.png",
+        "types": ["Grass", "Poison"]
+    },
+    {
+        "id": "002",
+        "name": "Ivysaur",
+        "image": "poke_imgs/002.png",
+        "types": ["Grass", "Poison"]
+    },
+    {
+        "id": "003",
+        "name": "Venusaur",
+        "image": "poke_imgs/003.png",
+        "types": ["Grass", "Poison"]
+    },
+    {
+        "id": "004",
+        "name": "Charmander",
+        "image": "poke_imgs/004.png",
+        "types": ["Fire"]
+    },
+    {
+        "id": "005",
+        "name": "Charmeleon",
+        "image": "poke_imgs/005.png",
+        "types": ["Fire"]
+    },
+    {
+        "id": "006",
+        "name": "Charizard",
+        "image": "poke_imgs/006.png",
+        "types": ["Fire", "Flying"]
+    },
+    {
+        "id": "007",
+        "name": "Squirtle",
+        "image": "poke_imgs/007.png",
+        "types": ["Water"]
+    },
+    {
+        "id": "008",
+        "name": "Wartortle",
+        "image": "poke_imgs/008.png",
+        "types": ["Water"]
+    },
+    {
+        "id": "009",
+        "name": "Blastoise",
+        "image": "poke_imgs/009.png",
+        "types": ["Water"]
+    }
+]
